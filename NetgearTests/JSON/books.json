@@ -1,0 +1,631 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "1L-jEAAAQBAJ",
+      "etag": "LvhDOSMSItk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1L-jEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Nineteen eighty-four",
+        "authors": [
+          "George Orwell"
+        ],
+        "publisher": "DigiCat",
+        "publishedDate": "2022-11-22",
+        "description": "This is a dystopian social science fiction novel and morality tale. The novel is set in the year 1984, a fictional future in which most of the world has been destroyed by unending war, constant government monitoring, historical revisionism, and propaganda. The totalitarian superstate Oceania, ruled by the Party and known as Airstrip One, now includes Great Britain as a province. The Party uses the Thought Police to repress individuality and critical thought. Big Brother, the tyrannical ruler of Oceania, enjoys a strong personality cult that was created by the party's overzealous brainwashing methods. Winston Smith, the main character, is a hard-working and skilled member of the Ministry of Truth's Outer Party who secretly despises the Party and harbors rebellious fantasies.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547423454"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 265,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1L-jEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1L-jEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=1L-jEAAAQBAJ&printsec=frontcover&dq=1984&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1L-jEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1L-jEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1L-jEAAAQBAJ&rdid=book-1L-jEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ie/books/download/Nineteen_eighty_four-sample-epub.acsm?id=1L-jEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ie/books/download/Nineteen_eighty_four-sample-pdf.acsm?id=1L-jEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1L-jEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written in 1949, the novel employs a stark and unembellished prose style that mirrors the grim reality of its oppressive setting, with a narrative that intricately explores themes of individuality, truth, and resistance."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kotPYEqx7kMC",
+      "etag": "34TNsn4f6dI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kotPYEqx7kMC",
+      "volumeInfo": {
+        "title": "1984",
+        "authors": [
+          "George Orwell"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2013-09-03",
+        "description": "75th ANNIVERSARY EDITION “Orwell saw, to his credit, that the act of falsifying reality is only secondarily a way of changing perceptions. It is, above all, a way of asserting power.”—The New Yorker In 1984, London is a grim city in the totalitarian state of Oceania where Big Brother is always watching you and the Thought Police can practically read your mind. Winston Smith is a man in grave danger for the simple reason that his memory still functions. Drawn into a forbidden love affair, Winston finds the courage to join a secret revolutionary organization called The Brotherhood, dedicated to the destruction of the Party. Together with his beloved Julia, he hazards his life in a deadly match against the powers that be. Lionel Trilling said of Orwell’s masterpiece, “1984 is a profound, terrifying, and wholly fascinating book. It is a fantasy of the political future, and like any such fantasy, serves its author as a magnifying device for an examination of the present.” Though the year 1984 now exists in the past, Orwell’s novel remains an urgent call for the individual willing to speak truth to power.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780547249643"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0547249640"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 309,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 82,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.33.29.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=kotPYEqx7kMC&printsec=frontcover&dq=1984&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=kotPYEqx7kMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kotPYEqx7kMC"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 19.29,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 19.29,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=kotPYEqx7kMC&rdid=book-kotPYEqx7kMC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19290000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 19290000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ie/books/download/1984-sample-epub.acsm?id=kotPYEqx7kMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kotPYEqx7kMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is a fantasy of the political future, and like any such fantasy, serves its author as a magnifying device for an examination of the present.” Though the year 1984 now exists in the past, Orwell’s novel remains an urgent call for the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CuYCAAAAMBAJ",
+      "etag": "xAtIGXSwzeU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CuYCAAAAMBAJ",
+      "volumeInfo": {
+        "title": "New York Magazine",
+        "publishedDate": "1984-12-03",
+        "description": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country. With award-winning writing and photography covering everything from politics and food to theater and fashion, the magazine's consistent mission has been to reflect back to its audience the energy and excitement of the city itself, while celebrating New York as both a place and an idea.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 220,
+        "printType": "MAGAZINE",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CuYCAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CuYCAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=CuYCAAAAMBAJ&printsec=frontcover&dq=1984&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=CuYCAAAAMBAJ&dq=1984&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/New_York_Magazine.html?hl=&id=CuYCAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CuYCAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rAAAAAAAMBAJ",
+      "etag": "FSBuTuIPxz4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rAAAAAAAMBAJ",
+      "volumeInfo": {
+        "title": "Popular Science",
+        "publishedDate": "1984-03",
+        "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 184,
+        "printType": "MAGAZINE",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rAAAAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rAAAAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=rAAAAAAAMBAJ&printsec=frontcover&dq=1984&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=rAAAAAAAMBAJ&dq=1984&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=rAAAAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rAAAAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "45tZvY5Qh4oC",
+      "etag": "25TcTcgiAoc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/45tZvY5Qh4oC",
+      "volumeInfo": {
+        "title": "Ebony",
+        "publishedDate": "1984-11",
+        "description": "EBONY is the flagship magazine of Johnson Publishing. Founded in 1945 by John H. Johnson, it still maintains the highest global circulation of any African American-focused magazine.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 176,
+        "printType": "MAGAZINE",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=45tZvY5Qh4oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=45tZvY5Qh4oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=45tZvY5Qh4oC&printsec=frontcover&dq=1984&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=45tZvY5Qh4oC&dq=1984&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ebony.html?hl=&id=45tZvY5Qh4oC"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=45tZvY5Qh4oC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "EBONY is the flagship magazine of Johnson Publishing. Founded in 1945 by John H. Johnson, it still maintains the highest global circulation of any African American-focused magazine."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iuUCAAAAMBAJ",
+      "etag": "XxQ8oz4Ap5U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iuUCAAAAMBAJ",
+      "volumeInfo": {
+        "title": "New York Magazine",
+        "publishedDate": "1984-01-09",
+        "description": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country. With award-winning writing and photography covering everything from politics and food to theater and fashion, the magazine's consistent mission has been to reflect back to its audience the energy and excitement of the city itself, while celebrating New York as both a place and an idea.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 112,
+        "printType": "MAGAZINE",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iuUCAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iuUCAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=iuUCAAAAMBAJ&printsec=frontcover&dq=1984&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=iuUCAAAAMBAJ&dq=1984&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/New_York_Magazine.html?hl=&id=iuUCAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iuUCAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XOUCAAAAMBAJ",
+      "etag": "YX9vkVPJlt8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XOUCAAAAMBAJ",
+      "volumeInfo": {
+        "title": "New York Magazine",
+        "publishedDate": "1984-05-28",
+        "description": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country. With award-winning writing and photography covering everything from politics and food to theater and fashion, the magazine's consistent mission has been to reflect back to its audience the energy and excitement of the city itself, while celebrating New York as both a place and an idea.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 148,
+        "printType": "MAGAZINE",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XOUCAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XOUCAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=XOUCAAAAMBAJ&printsec=frontcover&dq=1984&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=XOUCAAAAMBAJ&dq=1984&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/New_York_Magazine.html?hl=&id=XOUCAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XOUCAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0uMDAAAAMBAJ",
+      "etag": "Clp1XC2WKZ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0uMDAAAAMBAJ",
+      "volumeInfo": {
+        "title": "Popular Mechanics",
+        "publishedDate": "1984-01",
+        "description": "Popular Mechanics inspires, instructs and influences readers to help them master the modern world. Whether it’s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 176,
+        "printType": "MAGAZINE",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0uMDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0uMDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=0uMDAAAAMBAJ&printsec=frontcover&dq=1984&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=0uMDAAAAMBAJ&dq=1984&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Mechanics.html?hl=&id=0uMDAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0uMDAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Whether it’s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u9gDAAAAMBAJ",
+      "etag": "kvW4SDjdbKg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u9gDAAAAMBAJ",
+      "volumeInfo": {
+        "title": "Ebony",
+        "publishedDate": "1984-01",
+        "description": "EBONY is the flagship magazine of Johnson Publishing. Founded in 1945 by John H. Johnson, it still maintains the highest global circulation of any African American-focused magazine.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 120,
+        "printType": "MAGAZINE",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u9gDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u9gDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=u9gDAAAAMBAJ&printsec=frontcover&dq=1984&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=u9gDAAAAMBAJ&dq=1984&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ebony.html?hl=&id=u9gDAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u9gDAAAAMBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "EBONY is the flagship magazine of Johnson Publishing. Founded in 1945 by John H. Johnson, it still maintains the highest global circulation of any African American-focused magazine."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mjVBwoknZo4C",
+      "etag": "Z/vcQoZgQmQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mjVBwoknZo4C",
+      "volumeInfo": {
+        "title": "Ebony",
+        "publishedDate": "1984-12",
+        "description": "EBONY is the flagship magazine of Johnson Publishing. Founded in 1945 by John H. Johnson, it still maintains the highest global circulation of any African American-focused magazine.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 168,
+        "printType": "MAGAZINE",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mjVBwoknZo4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mjVBwoknZo4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=mjVBwoknZo4C&printsec=frontcover&dq=1984&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=mjVBwoknZo4C&dq=1984&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ebony.html?hl=&id=mjVBwoknZo4C"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mjVBwoknZo4C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "EBONY is the flagship magazine of Johnson Publishing. Founded in 1945 by John H. Johnson, it still maintains the highest global circulation of any African American-focused magazine."
+      }
+    }
+  ]
+}
