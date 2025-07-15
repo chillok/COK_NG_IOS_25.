@@ -21,10 +21,10 @@ final class SearchCoordinatorTests: XCTestCase {
         
         // WHEN a book is selected
         viewModel.selectedBook = book
-
-        RunLoop.main.run(until: Date().addingTimeInterval(0.1))
         
-        // THEN the coordinator should attempt to display the detail screen
-        XCTAssertEqual(coordinator.path, [.detail(book)])
+        eventually {
+            // THEN the coordinator should attempt to display the detail screen
+            XCTAssertEqual(coordinator.path, [.detail(book)])
+        }
     }
 }
