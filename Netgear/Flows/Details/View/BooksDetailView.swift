@@ -30,9 +30,9 @@ struct BooksDetailView: View {
                             case .success(let image):
                                 image
                                     .resizable()
-                                        .aspectRatio(contentMode: .fit)
-                                        .frame(maxHeight: Constants.maxHeight)
-                                        .clipShape(.rect)
+                                    .aspectRatio(contentMode: .fit)
+                                    .frame(maxHeight: Constants.maxHeight)
+                                    .clipShape(.rect)
                             case .failure:
                                 EmptyView()
                             @unknown default:
