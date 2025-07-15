@@ -30,6 +30,6 @@ Error Handling:
 - Added Error messages to failed URL requests.
 
 Provide explanations for any items you couldn't accomplish within the given timeframe:
-- The UI animation actually seems a bit choppy when activating the search bar. I'm not sure the cause or maybe it's how SwiftUI handles that. In general I would have liked to spent more time polishing the UI but it was more important to get the technical bits in first.
+- The UI animation actually seems a bit choppy when activating the search bar and also when opening some results. I'm not sure the cause or maybe it's how SwiftUI handles that. I think asynchronous image loading of different sizes is probably causing that. In general I would have liked to spent more time polishing the UI but it was more important to get the technical bits in first.
 - I'd like to have added tests to SearchCoordinatorView. They'd have to be UI tests and I'd have needed to have the app use Mock data for test consistency.
 - The API isn't paginated. Just not enough time.
